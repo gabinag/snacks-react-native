@@ -1,4 +1,4 @@
-Links dos Snacks no Expo:
+Links dos Snacks no Expo:  
 https://snack.expo.dev/@gabs_naga/app01---meu-perfil 
 https://snack.expo.dev/@gabs_naga/app02---contador
 https://snack.expo.dev/@gabs_naga/app03---multiplicador
