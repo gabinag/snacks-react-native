@@ -10,3 +10,4 @@ https://snack.expo.dev/@gabs_naga/app08---vagas     (Executar em My Device ou An
 https://snack.expo.dev/@gabs_naga/app09---conta-bancaria  
 https://snack.expo.dev/@gabs_naga/app10---conversor-de-moedas  
 https://snack.expo.dev/@gabs_naga/app11---vagas2    (Executar em My Device ou Android)  
+https://snack.expo.dev/@gabs_naga/app12---conta-bancaria-2
