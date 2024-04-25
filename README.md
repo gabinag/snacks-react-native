@@ -1,5 +1,6 @@
-Todos os mini apps foram criados ao longo do curso de Desenvolvimento de Dispositivos Móveis II, onde iniciei meu aprendizado em React Native do zero e gradualmente aprimorei minhas habilidades.    
-Os links dos Snacks no Expo serão listados abaixo:  
+Todos os mini apps foram criados ao longo do curso de Desenvolvimento de Dispositivos Móveis II, onde iniciei meu aprendizado em React Native do zero e gradualmente aprimorei minhas habilidades 👩‍💻✨
+
+⚛ Os links dos Snacks no Expo serão listados abaixo:  
 https://snack.expo.dev/@gabs_naga/app01---meu-perfil  
 https://snack.expo.dev/@gabs_naga/app02---contador  
 https://snack.expo.dev/@gabs_naga/app03---multiplicador  
