@@ -14,7 +14,7 @@ https://snack.expo.dev/@gabs_naga/app10---conversor-de-moedas
 https://snack.expo.dev/@gabs_naga/app11---vagas2    (Executar em My Device ou Android)  
 https://snack.expo.dev/@gabs_naga/app12---conta-bancaria-2
 https://snack.expo.dev/@gabs_naga/app13---anuncios2   (Executar em My Device ou Android)  
-https://snack.expo.dev/@gabs_naga/app14---vagas---scroll-view-e-stack-navigator    (Executar em My Device ou Android)    
-https://snack.expo.dev/@gabs_naga/app15---vagas---flat-list-e-stack-navigator    (Executar em My Device ou Android)  
+https://snack.expo.dev/@gabs_naga/app14---vagas---scroll-view-e-stack-navigator       
+https://snack.expo.dev/@gabs_naga/app15---vagas---flat-list-e-stack-navigator    
 https://snack.expo.dev/@gabs_naga/app16---meu-perfil-com-bottom-tab-bar  
 https://snack.expo.dev/@gabs_naga/app17---meu-perfil-com-top-tab-bar  
