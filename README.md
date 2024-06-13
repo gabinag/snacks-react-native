@@ -17,4 +17,14 @@ https://snack.expo.dev/@gabs_naga/app13---anuncios2   (Executar em My Device ou 
 https://snack.expo.dev/@gabs_naga/app14---vagas---scroll-view-e-stack-navigator       
 https://snack.expo.dev/@gabs_naga/app15---vagas---flat-list-e-stack-navigator    
 https://snack.expo.dev/@gabs_naga/app16---meu-perfil-com-bottom-tab-bar  
-https://snack.expo.dev/@gabs_naga/app17---meu-perfil-com-top-tab-bar  
+https://snack.expo.dev/@gabs_naga/app17---meu-perfil-com-top-tab-bar   
+https://snack.expo.dev/@gabs_naga/app18---conversor-de-moedas--bottom-tab-navigator    
+https://snack.expo.dev/@gabs_naga/app19---conversor-de-moedas---top-tab-navigator    
+https://snack.expo.dev/@gabs_naga/app20---frase-com-preferencias    
+https://snack.expo.dev/@gabs_naga/app-21---lista-de-tarefas    
+https://snack.expo.dev/@gabs_naga/app-22---lista-de-compra    
+https://snack.expo.dev/@gabs_naga/app-23---app-de-consulta-de-cep    
+https://snack.expo.dev/@gabs_naga/app-24---app-perfil-de-devs    
+https://snack.expo.dev/@gabs_naga/app-25---app-de-filmes   
+https://snack.expo.dev/@gabs_naga/app-26---app-conversor-de-moedas-   
+https://snack.expo.dev/@gabs_naga/app-27---app-de-cadastro-de-tarefas  
