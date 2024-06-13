@@ -27,4 +27,5 @@ https://snack.expo.dev/@gabs_naga/app23---app-de-consulta-de-cep
 https://snack.expo.dev/@gabs_naga/app24---app-perfil-de-devs   
 https://snack.expo.dev/@gabs_naga/app25---app-de-filmes      
 https://snack.expo.dev/@gabs_naga/app26---app-conversor-de-moedas    
-https://snack.expo.dev/@gabs_naga/app27---cadastro-de-tarefas  
+https://snack.expo.dev/@gabs_naga/app27---cadastro-de-tarefas   
+https://snack.expo.dev/@gabs_naga/p2---app-devs-burger   
